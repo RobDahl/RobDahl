@@ -10,23 +10,23 @@ analysis, image pipelines, and the infrastructure they run on.
 
 ## Selected projects
 
-**[Paper Trace](https://f1.robdahl.dev)** — Formula 1 lap telemetry rendered as a pen-plotter
+- **[Paper Trace](https://f1.robdahl.dev)** — Formula 1 lap telemetry rendered as a pen-plotter
 printout. A Python/FastAPI/NumPy analysis service over the official FastF1 timing archive feeds
 hand-authored SVG charts on a Next.js front end that ships almost no JavaScript, with 185 committed
 sessions so the site works with the backend switched off.
 [Source](https://github.com/RobDahl/f1-telemetry-dashboard)
 
-**[Job Search Dashboard](https://jobs.robdahl.dev)** — A self-hostable job tracker with
+- **[Job Search Dashboard](https://jobs.robdahl.dev)** — A self-hostable job tracker with
 deterministic offline posting extraction, configurable fit scoring, and application tracking. LLM
 analysis is layered on as an optional enhancement rather than a dependency, so parsing still works
 with no model in the loop. [Source](https://github.com/RobDahl/job-dashboard)
 
-**[Slicedeck](https://slicedeck.robdahl.dev)** — Splits one live camera frame across the keys of an
+- **[Slicedeck](https://slicedeck.robdahl.dev)** — Splits one live camera frame across the keys of an
 Elgato Stream Deck so the whole device becomes a single low-resolution display. Press a key and the
 deck zooms into it. The browser demo runs the same pipeline with no camera or hardware attached.
 [Source](https://github.com/RobDahl/slicedeck)
 
-**[Portfolio](https://robdahl.dev)** — This site: Next.js, Tailwind CSS, and a resume compiled from
+- **[Portfolio](https://robdahl.dev)** — This site: Next.js, Tailwind CSS, and a resume compiled from
 Typst source in the repo. [Source](https://github.com/RobDahl/next-portfolio)
 
 ## Elsewhere
