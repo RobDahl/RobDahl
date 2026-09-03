@@ -26,7 +26,7 @@ Elgato Stream Deck so the whole device becomes a single low-resolution display. 
 deck zooms into it. The browser demo runs the same pipeline with no camera or hardware attached.
 [Source](https://github.com/RobDahl/slicedeck)
 
-- **[Portfolio](https://robdahl.dev)** — This site: Next.js, Tailwind CSS, and a resume compiled from
+- **[Portfolio](https://robdahl.dev)** — Personal Portfolio site using Next.js, Tailwind CSS, and a resume compiled from
 Typst source in the repo. [Source](https://github.com/RobDahl/next-portfolio)
 
 ## Elsewhere
